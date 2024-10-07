@@ -3,9 +3,12 @@
 layout: home
 
 hero:
-  name: "Liren29"
-  text: "DreamFree"
-  tagline: My great project tagline
+  name: "里仁"
+  text: "Liren29"
+  tagline: 学无止境,但很快乐
+  image:
+  src: /avatar.png
+  alt: 里仁
   actions:
     - theme: brand
       text: Markdown Examples
@@ -15,11 +18,14 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: 📚
+    title: 我的作品
+    details: 作品
+  - icon: 🛠️
+    title: 技术学习
+    details: Golang/Aws
+  - icon: ⛓️
+    title: 区块链知识
+    details: EVM/Solana
 ---
 
