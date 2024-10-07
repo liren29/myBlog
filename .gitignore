@@ -1,0 +1,8 @@
+# 开发服务器缓存存储
+docs/.vitepress/cache/
+
+# 生产构建输出存储
+docs/.vitepress/dist/
+
+# dependencies
+/node_modules
